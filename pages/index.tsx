@@ -4,7 +4,7 @@ import Image from "next/image";
 
 // import img1 from "../lib/assets/rooms/suite/photo_2022-01-17_15-37-37.jpg";
 
-import img1 from "../lib/assets/newimg/maharaja/IMG_20230706_111526_995.jpg";
+import img1 from "../lib/assets/updatedate18/12.jpeg";
 
 import service1 from "../lib/assets/services/WhatsApp Image 2022-01-11 at 3.54.18 PM (1).jpeg";
 import service2 from "../lib/assets/services/WhatsApp Image 2022-01-11 at 3.54.19 PM.jpeg";
@@ -75,8 +75,10 @@ const Home = () => {
                 alt="WEDDING Image"
               ></Image>
               <a
-                href="#"
+                href= "https://drive.google.com/file/d/1bPM-RgyAaYn7oXt8rwxCeaz3d-P1L9o7/view"
                 className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white uppercase font-semibold text-xl drop-shadow-lg z-[1]"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 WEDDING
               </a>
