@@ -272,6 +272,17 @@ import Image14 from "../lib/assets/newimg/gallary/DSC_9112.jpg02.jpg";
 import Image15 from "../lib/assets/newimg/gallary/IMG_3094.jpg";
 
 
+import Image16 from "../lib/assets/updatedate18/1.jpg";
+import Image17 from "../lib/assets/updatedate18/2.jpg";
+import Image18 from "../lib/assets/updatedate18/3.jpg";
+import Image19 from "../lib/assets/updatedate18/4.jpg";
+import Image20 from "../lib/assets/updatedate18/5.jpg";
+import Image21 from "../lib/assets/updatedate18/6.jpg";
+import Image22 from "../lib/assets/updatedate18/7.jpg";
+import Image23 from "../lib/assets/updatedate18/8.jpg";
+import Image24 from "../lib/assets/updatedate18/9.jpg";
+import Image25 from "../lib/assets/updatedate18/10.jpg";
+import Image26 from "../lib/assets/updatedate18/11.jpg";
 
 
 
@@ -363,6 +374,46 @@ const gallery = () => {
 
           <div className="flex flex-col items-center">
             <LoadImage url={Image15} caption=" " />
+          </div>
+
+
+          <div className="flex flex-col items-center">
+            <LoadImage url={Image16} caption=" " />
+          </div>
+          <div className="flex flex-col items-center">
+            <LoadImage url={Image17} caption=" " />
+          </div>
+          <div className="flex flex-col items-center">
+            <LoadImage url={Image18} caption=" " />
+          </div>
+          <div className="flex flex-col items-center">
+            <LoadImage url={Image19} caption=" " />
+          </div>
+
+
+          <div className="flex flex-col items-center">
+            <LoadImage url={Image20} caption=" " />
+          </div>
+          <div className="flex flex-col items-center">
+            <LoadImage url={Image21} caption=" " />
+          </div>
+          <div className="flex flex-col items-center">
+            <LoadImage url={Image22} caption=" " />
+          </div>
+          <div className="flex flex-col items-center">
+            <LoadImage url={Image23} caption=" " />
+          </div>
+          <div className="flex flex-col items-center">
+            <LoadImage url={Image24} caption=" " />
+          </div>
+
+
+          <div className="flex flex-col items-center">
+            <LoadImage url={Image25} caption=" " />
+          </div>
+
+          <div className="flex flex-col items-center">
+            <LoadImage url={Image26} caption=" " />
           </div>
           
 

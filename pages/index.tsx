@@ -12,6 +12,7 @@ import service3 from "../lib/assets/services/br pool.jpg";
 import service4 from "../lib/assets/services/xuanming-U5epRU6sY_A-unsplash.jpg";
 import service5 from "../lib/assets/newimg/wedding/0F4A2648.jpg";
 
+import service6 from "../lib/assets/updatedate18/12.jpeg";
 
 
 import HeroCarousel from "../lib/components/HeroCarousel";
@@ -150,6 +151,22 @@ const Home = () => {
               <div className="absolute top-0 left-0 w-full h-full bg-black opacity-40"></div>
             </div>
 
+            <div className="w-full relative min-h-[30rem]">
+              <Image
+                placeholder="blur"
+                src={service6}
+                objectFit="cover"
+                layout="fill"
+                alt="Maharaha Suite Room Image"
+              ></Image>
+              <a
+                href="#"
+                className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white uppercase font-semibold text-xl drop-shadow-lg z-[1]"
+              >
+               Maharaha Suite Room 
+              </a>
+              <div className="absolute top-0 left-0 w-full h-full bg-black opacity-40"></div>
+            </div>
             
 
 

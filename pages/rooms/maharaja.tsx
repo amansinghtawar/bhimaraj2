@@ -7,8 +7,9 @@ import RoomLayout from "../../lib/components/RoomLayout";
 // import roomImg from "../../lib/assets/rooms/deluxe/photo_2022-01-17_15-32-51.jpg";
 
 // import roomImg from "../../lib/assets/new/maha.jpeg";
-import roomImg from "../../lib/assets/new-room/maharaja/IMG_20240502_172119_449.jpg";
+// import roomImg from "../../lib/assets/new-room/maharaja/IMG_20240502_172119_449.jpg";
 
+import roomImg from "../../lib/assets/updatedate18/12.jpeg";
 
 // import img1 from "../../lib/assets/rooms/deluxe/images/photo_2022-01-30_18-44-12 (2).jpg";
 // import img2 from "../../lib/assets/rooms/deluxe/images/photo_2022-01-30_18-44-12.jpg";
